@@ -1,4 +1,4 @@
-[(https://github.com/Constructschon/https-github.com-Diamond24-7-constructschon)](https://github.com/Diamond24-7/constructschon.git)
+(https://github.com/Diamond24-7/constructschon.git)
 import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
 
